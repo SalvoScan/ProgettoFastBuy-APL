@@ -1,0 +1,13 @@
+﻿  database.cpp
+C:\Users\Rosario\source\repos\prova3\prova3\funct.h(215,53): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\prova3\prova3\database.cpp(84,34): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\prova3\prova3\database.cpp(96,38): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\prova3\prova3\database.cpp(127,34): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\prova3\prova3\database.cpp(158,38): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\prova3\prova3\database.cpp(172,30): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Generazione codice in corso...
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Rosario\source\repos\prova3\prova3\ServerSide.cpp(51): warning C4172: verrà restituito l'indirizzo del valore : msg temporaneo o della variabile locale
+  All 498 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  prova3.vcxproj -> C:\Users\Rosario\source\repos\prova3\x64\Release\prova3.exe

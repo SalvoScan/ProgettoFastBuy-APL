@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: la directory intermedia (x64\Debug\) contiene file condivisi da un altro progetto (prova3.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  Main.cpp
+C:\Users\Rosario\source\repos\Modulo_Server_Cpp\prova3\funct.h(220,53): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\Modulo_Server_Cpp\prova3\funct.h(357,28): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\Modulo_Server_Cpp\prova3\funct.h(360,48): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\Modulo_Server_Cpp\prova3\funct.h(374,32): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\Modulo_Server_Cpp\prova3\Main.cpp(98,34): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\Modulo_Server_Cpp\prova3\Main.cpp(110,38): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\Modulo_Server_Cpp\prova3\Main.cpp(131,34): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\Modulo_Server_Cpp\prova3\Main.cpp(154,38): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Rosario\source\repos\Modulo_Server_Cpp\prova3\Main.cpp(173,30): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  prova3.vcxproj -> C:\Users\Rosario\source\repos\Modulo_Server_Cpp\x64\Debug\Modulo_Server_Cpp.exe

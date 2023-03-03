@@ -1,0 +1,17 @@
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\bin\Debug\Modulo_C_sharp.exe.config
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\bin\Debug\Modulo_C_sharp.exe
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\bin\Debug\Modulo_C_sharp.pdb
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.csproj.AssemblyReference.cache
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.Properties.Resources.resources
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.csproj.GenerateResource.cache
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.exe
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.pdb
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormAccedi.resources
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormRegistrazione.resources
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormInserimentoProd.resources
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormSceltaCategoria.resources
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormVisualizzazioneCarrello.resources
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormVisualizzazioneOrdini.resources
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormVisualizzazioneProdottiOrdine.resources
+C:\Users\Rosario\source\repos\Modulo_C_sharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormTracciamentoOrdine.resources

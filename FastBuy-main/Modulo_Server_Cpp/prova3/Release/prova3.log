@@ -1,0 +1,15 @@
+﻿  ClientSide.cpp
+C:\Users\Rosario\source\repos\prova3\prova3\ClientSide.cpp(57,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  ConnDB.cpp
+C:\Users\Rosario\source\repos\prova3\prova3\ConnDB.h(4,10): fatal error C1083: Non è possibile aprire il file inclusione: 'mysql.h': No such file or directory
+  database.cpp
+C:\Users\Rosario\source\repos\prova3\prova3\ConnDB.h(4,10): fatal error C1083: Non è possibile aprire il file inclusione: 'mysql.h': No such file or directory
+  Ordine.cpp
+  Prodotti.cpp
+C:\Users\Rosario\source\repos\prova3\prova3\ConnDB.h(4,10): fatal error C1083: Non è possibile aprire il file inclusione: 'mysql.h': No such file or directory
+  Prodotto.cpp
+  ServerSide.cpp
+C:\Users\Rosario\source\repos\prova3\prova3\ServerSide.cpp(47,20): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  Utente.cpp
+  Utenti.cpp
+C:\Users\Rosario\source\repos\prova3\prova3\ConnDB.h(4,10): fatal error C1083: Non è possibile aprire il file inclusione: 'mysql.h': No such file or directory
